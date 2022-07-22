@@ -1,2 +1,3 @@
-# project-green
-is an open source developer app to help the agricultural community improve the rearing and marketing of lifestock
+# green africa
+this is a project to help and assist farmers  in our environment.
+an agricultural app to teach,provide,and share knowledge
