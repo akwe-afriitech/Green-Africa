@@ -1,3 +1,3 @@
 # green-africa
-this is a project to help and assist farmers  in our environment.
-an agricultural app to teach,provide,and share knowledge
+an agricultural application built with flutter and dart to assist farmers in the community,learn to grow crops and rear animals, share knowledge ,seek and recieve funding from potential donors
+
